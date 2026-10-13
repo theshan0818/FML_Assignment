@@ -1,0 +1,3 @@
+Model,Train Accuracy,Test Accuracy,Precision,Recall,F1-Score,ROC-AUC,PR-AUC
+RF Baseline,0.9977,0.7864,0.6197,0.5053,0.5567,0.8215,0.6156
+RF Tuned,0.8147,0.7686,0.5455,0.7701,0.6386,0.8464,0.6599
